@@ -1,0 +1,8 @@
+# .gitignore
+
+*.log
+*.synctex.gz
+.env
+DOCUMENTO/
+venv
+__pycache__

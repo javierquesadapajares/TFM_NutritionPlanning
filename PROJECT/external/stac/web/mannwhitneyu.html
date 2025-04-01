@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+		<meta charset="UTF-8">
+		<script src="js/loader.js"></script>
+		
+		<script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>
+    </head>
+
+    <body>
+        <div id="topbar"></div>
+		
+        <div class="container">
+			<div id="modals"></div>
+            <div class="row">
+                <div class="col-sm-12 col-md-12 main">
+                    <h1 class="page-header">Mann-Whitney U Test</h1>
+                    <div class="tab-content">
+                        <div id="normalidad" class="tab-pane fade in active">
+							<div class=row">
+								<div id="danger" class="alert alert-danger" style="display:none"></div>
+								<div id="warning" class="alert alert-warning" style="display:none"></div>
+								<div class="col-lg-5">
+									<form class="form-horizontal" role="form">
+										<div class="form-group">
+											<label class="col-lg-5 control-label">Select test<a href="#helpModal" data-toggle="modal" more-info="normality"> [?] </a>:</label>
+											<div class="col-lg-7">
+												<div class="btn-group-vertical" data-toggle="buttons">
+													<label name="test_cond" class="btn btn-default active"><input type="radio" name="test" id="option1" value="mannwhitneyu" checked> Mann-Whitney U Test</label>
+												</div>
+											</div>
+										</div>
+										<div class="form-group">
+											<label class="col-lg-5 control-label">Significance level<a href="#helpModal" data-toggle="modal" more-info="basic"> [?] </a>:</label>
+											<div class="col-lg-7">
+												<select class="form-control" id="alpha">
+													<option value="0.10">0.10</option>
+													<option value="0.05" selected="selected">0.05</option>
+													<option value="0.02">0.02</option>
+													<option value="0.01">0.01</option>
+													<option value="0.005">0.005</option>
+													<option value="0.001">0.001</option>
+												</select>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="col-lg-offset-7 col-lg-5">
+												<a data-toggle="tab" href="#result"><button type="button" class="btn btn-primary" id="apply" test="mannwhitneyu"><label class="glyphicon glyphicon-play"></label> Apply </button></a>
+											</div>
+										</div>
+									</form>
+								</div>
+								<div class="col-lg-7">
+									<div class="panel panel-default">
+									  <div class="panel-body">
+										<p><strong>Null hypothesis (H<sub>0</sub>):</strong> The medians of the differences between two related samples (results from two algorithms) are equal.</p>
+										<p><strong>Restrictions:</strong></p>
+										<ul type = square>
+											<li>Number of algorithms >= 2</li>
+											<li>There must be at least 5 data sets without ties (discrepancies of 0)</li>
+										</ul>
+									  </div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="col-lg-12">
+									<div id="result" class="tab-pane fade" style="display: none;"></div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-lg-12" style="margin-top: 50px;">
+									<div class="panel panel-default">
+									  <div class="panel-heading">References</div>
+									  <div class="panel-body">
+										<ul type = square>
+                                            <li>Mann, Henry B., and Donald R. Whitney. "On a test of whether one of two random variables is stochastically larger than the other." The annals of mathematical statistics (1947): 50-60.</li>
+										</ul>
+									  </div>
+									</div>
+								</div>
+							</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+

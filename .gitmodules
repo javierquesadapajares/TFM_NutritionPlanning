@@ -1,0 +1,3 @@
+[submodule "PROJECT/external/stac"]
+	path = PROJECT/external/stac
+	url = https://github.com/citiususc/stac.git
