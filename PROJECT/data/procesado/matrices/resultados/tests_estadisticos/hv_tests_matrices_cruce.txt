@@ -1,0 +1,557 @@
+####################################################################################################
+SECCIÓN 1 — COMPARACIONES POR PARES (WILCOXON por sujeto + Fisher)
+####################################################################################################
+
+=== (1/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000057
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (2/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999931
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (3/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002986
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (4/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.991217
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (5/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (6/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.997446
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (7/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (8/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999993
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (9/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002781
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (10/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.993549
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (11/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.003204
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (12/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (13/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 1.000000
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (14/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (15/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.969518
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (16/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (17/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 1.000000
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (18/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (19/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999979
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (20/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (21/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.927853
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (22/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (23/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 1.000000
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (24/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (25/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999999
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (26/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (27/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999982
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (28/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (29/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.985881
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (30/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (31/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (32/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.853523
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (33/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (34/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.998459
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (35/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (36/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 1.000000
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (37/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (38/66) WILCOXON por sujeto: nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.996108
+   Mediana global de (HV_nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (39/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (40/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.998873
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (41/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (42/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999109
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (43/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (44/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.980004
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (45/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.003194
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (46/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (47/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.992942
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (48/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (49/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.965758
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (50/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (51/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.564486
+   Mediana global de (HV_nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (52/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (53/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999996
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (54/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (55/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.995857
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (56/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (57/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (58/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999986
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (59/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (60/66) WILCOXON por sujeto: nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.938259
+   Mediana global de (HV_nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (61/66) WILCOXON por sujeto: nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.002580
+   Mediana global de (HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (62/66) WILCOXON por sujeto: nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.999288
+   Mediana global de (HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (63/66) WILCOXON por sujeto: nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.003194
+   Mediana global de (HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (64/66) WILCOXON por sujeto: nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (65/66) WILCOXON por sujeto: nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.942641
+   Mediana global de (HV_nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 5
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (66/66) WILCOXON por sujeto: nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json  VS  nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json - HV_nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+####################################################################################################
+SECCIÓN 2 — ANÁLISIS GLOBAL (Aligned Friedman + Shaffer)
+####################################################################################################
+
+=== FRIEDMAN + SHAFFER (GLOBAL) → 12 métodos × 5 sujetos ===
+   p-Friedman = 0.911995   |   Tiempo: 0.00s
+   [INFO] Se usó X_use = -HV para el ranking (HV es larger-is-better).
+
+   Ranking (menor rank = mejor):
+      1. nsga3_matrices_cr_jaccard_consenso_pc0_6_mut_custom_pm1_77.json  → rank=24.600000
+      2. nsga3_matrices_cr_braycurtis_consenso_pc0_6_mut_custom_pm1_77.json  → rank=24.800000
+      3. nsga3_matrices_cr_coseno_consenso_pc0_6_mut_custom_pm1_77.json  → rank=25.000000
+      4. nsga3_matrices_cr_braycurtis_anticonsenso_pc0_6_mut_custom_pm1_77.json  → rank=25.200000
+      5. nsga3_matrices_cr_jaccard_anticonsenso_pc0_6_mut_custom_pm1_77.json  → rank=25.400000
+      6. nsga3_matrices_cr_coseno_anticonsenso_pc0_6_mut_custom_pm1_77.json  → rank=25.600000
+      7. nsga3_matrices_cr_jaccard_consenso_pc0_9_mut_custom_pm1_77.json  → rank=35.400000
+      8. nsga3_matrices_cr_braycurtis_consenso_pc0_9_mut_custom_pm1_77.json  → rank=35.600000
+      9. nsga3_matrices_cr_braycurtis_anticonsenso_pc0_9_mut_custom_pm1_77.json  → rank=35.800000
+     10. nsga3_matrices_cr_jaccard_anticonsenso_pc0_9_mut_custom_pm1_77.json  → rank=36.000000
+     11. nsga3_matrices_cr_coseno_consenso_pc0_9_mut_custom_pm1_77.json  → rank=36.200000
+     12. nsga3_matrices_cr_coseno_anticonsenso_pc0_9_mut_custom_pm1_77.json  → rank=36.400000
+
+   No hay diferencias globales significativas (p>=0.05).
+====================================================================================================
+

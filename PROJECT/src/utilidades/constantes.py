@@ -1,41 +1,75 @@
-# constantes.py
+# constantes.py — Parámetros globales y catálogos del problema
+# Contiene:
+# - Umbrales y objetivos nutricionales.
+# - Penalizaciones del modelo.
+# - Tipos de comida, mapa de componentes por comida y calendario básico.
+# - Tamaños del problema (días, genes).
+# - Niveles de actividad (Enum) con utilidades.
+# - Semillas fijas para reproducibilidad.
+# - Grupos de comida (catálogo jerárquico).
 
 from enum import Enum
 
-# Porcentajes objetivos y limites de macronutrientes
+# Umbrales de binarización nutricional (bajo, alto)
+UMBRAL_BINARIZACION = {
+    "calorias": (150, 400),
+    "proteinas": (1.6, 8),
+    "carbohidratos": (5, 22.5),
+    "grasas": (3, 17.5),
+}
+
+# Porcentajes objetivo de macronutrientes (sobre calorías totales)
 OBJETIVO_PROTEINAS = 22.5
-OBJETIVO_CARBOHIDRATOS = 55
+OBJETIVO_CARBOHIDRATOS = 55.0
 OBJETIVO_GRASAS = 27.5
 
-LIMITE_PROTEINAS = (10, 35)
-LIMITE_CARBOHIDRATOS = (45, 65)
-LIMITE_GRASAS = (20, 35)
+# Límites aceptables de macronutrientes (porcentaje)
+LIMITE_PROTEINAS = (10.0, 35.0)
+LIMITE_CARBOHIDRATOS = (45.0, 65.0)
+LIMITE_GRASAS = (20.0, 35.0)
 
-
-# Factores de penalizacion
+# Factores de penalización
 PENALIZACION_CALORIAS = 500
 PENALIZACION_MACRONUTRIENTES = 300
 PENALIZACION_ALERGIA = 1000
 PENALIZACION_PREFERENCIA = 50
 
+# Tipos de comida utilizados en el plan
+class TipoComida:
+    DESAYUNO = "desayuno"
+    BEBIDA_DESAYUNO = "bebida_desayuno"
+    SNACKS = "snacks"
+    ALMUERZO_CENA = "almuerzo_cena"
+    BEBIDAS = "bebidas"
 
-# Nombres de dias de la semana y comidas
+# Calendario y definición de comidas del día
 DIAS_SEMANA = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo"]
+
+# Cada comida indica cuántos alimentos tiene
 COMIDAS = [
     {"nombre": "Desayuno", "num_alimentos": 3},
     {"nombre": "Tentempie", "num_alimentos": 1},
     {"nombre": "Almuerzo", "num_alimentos": 3},
     {"nombre": "Merienda", "num_alimentos": 1},
-    {"nombre": "Cena", "num_alimentos": 3}
+    {"nombre": "Cena", "num_alimentos": 3},
 ]
 
-# Parametros del problema
+# Para cada comida, el tipo de cada componente en orden
+MAPA_COMPONENTES_POR_COMIDA = {
+    "Desayuno":  [TipoComida.DESAYUNO, TipoComida.DESAYUNO, TipoComida.BEBIDA_DESAYUNO],
+    "Tentempie": [TipoComida.SNACKS],
+    "Almuerzo":  [TipoComida.ALMUERZO_CENA, TipoComida.ALMUERZO_CENA, TipoComida.BEBIDAS],
+    "Merienda":  [TipoComida.SNACKS],
+    "Cena":      [TipoComida.ALMUERZO_CENA, TipoComida.ALMUERZO_CENA, TipoComida.BEBIDAS],
+}
+
+# Tamaños del problema
 NUM_DIAS = 7
 NUM_COMIDAS = len(COMIDAS)
-NUM_ALIMENTOS_DIARIO = sum(comida["num_alimentos"] for comida in COMIDAS)   # En total un dia tiene 11 alimentos
-NUM_GENES = NUM_DIAS * NUM_ALIMENTOS_DIARIO     # En total el menu consta de 77 alimentos
+NUM_ALIMENTOS_DIARIO = sum(c["num_alimentos"] for c in COMIDAS)  # 11 alimentos por día
+NUM_GENES = NUM_DIAS * NUM_ALIMENTOS_DIARIO                       # 77 genes por menú semanal
 
-# Niveles de actividad
+# Niveles de actividad con factor multiplicador
 class NivelActividad(Enum):
     SEDENTARIO = ("Sedentario (poco o ningun ejercicio)", 1.2)
     POCO_ACTIVO = ("Poco activo (ejercicio ligero/deportes 1-3 dias a la semana)", 1.375)
@@ -44,29 +78,37 @@ class NivelActividad(Enum):
     MUY_ACTIVO = ("Muy activo (ejercicio muy duro/deportes y un trabajo físico)", 1.9)
 
     @classmethod
-    def get_descriptions(cls):
-        return [activity.value[0] for activity in cls]
+    def descripciones(cls):
+        """Devuelve la lista de descripciones de actividad."""
+        return [x.value[0] for x in cls]
 
     @classmethod
-    def get_value(cls, description):
-        for activity in cls:
-            if activity.value[0] == description:
-                return activity.value[1]
+    def factor_por_descripcion(cls, descripcion: str) -> float:
+        """Devuelve el factor multiplicador a partir de la descripción exacta."""
+        for x in cls:
+            if x.value[0] == descripcion:
+                return x.value[1]
         raise ValueError("Nivel de actividad no valido")
-    
-# 31 semillas
-SEEDS = [
-    6, 26, 59, 60,
-    79, 93, 489, 608,
-    634, 684, 784, 930,
-    3364, 3608, 4845, 5375,
-    8542, 9397, 11320, 14648,
-    39843, 73886, 83186, 97870,
-    152822, 211193, 226880, 315529,
-    428397, 489166, 526568
-]
 
-# Grupos de comida
+    # Aliases para compatibilidad si en algún sitio anterior se usaron nombres en inglés
+    get_descriptions = descripciones
+    get_value = factor_por_descripcion
+
+# # 31 semillas para reproducibilidad (se usan en todos los sujetos)
+# SEEDS = [
+#     6, 26, 59, 60,
+#     79, 93, 489, 608,
+#     634, 684, 784, 930,
+#     3364, 3608, 4845, 5375,
+#     8542, 9397, 11320, 14648,
+#     39843, 73886, 83186, 97870,
+#     152822, 211193, 226880, 315529,
+#     428397, 489166, 526568,
+# ]
+
+SEEDS = [42]
+
+# Catálogo de grupos de comida (códigos y descripciones)
 class GruposComida:
     class Cereales:
         CEREALES = ("A", "Cereals and cereal products")

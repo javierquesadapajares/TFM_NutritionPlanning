@@ -1,0 +1,75 @@
+####################################################################################################
+SECCIÓN 1 — COMPARACIONES POR PARES (WILCOXON por sujeto + Fisher)
+####################################################################################################
+
+=== (1/6) WILCOXON por sujeto: nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json  VS  nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.993351
+   Mediana global de (HV_nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json - HV_nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json: 0   |  a nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (2/6) WILCOXON por sujeto: nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json  VS  nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000000
+   Mediana global de (HV_nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json - HV_nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json) entre sujetos: -27473774.813324
+   Sujetos que favorecen a nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json: 0   |  a nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json: 4   |  empates: 1
+   GANADOR (si p<0.05): nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json
+====================================================================================================
+
+=== (3/6) WILCOXON por sujeto: nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json  VS  nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000000
+   Mediana global de (HV_nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json - HV_nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json) entre sujetos: -93032890.280462
+   Sujetos que favorecen a nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json: 0   |  a nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json: 4   |  empates: 1
+   GANADOR (si p<0.05): nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json
+====================================================================================================
+
+=== (4/6) WILCOXON por sujeto: nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json  VS  nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000000
+   Mediana global de (HV_nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json - HV_nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json) entre sujetos: -27473774.813324
+   Sujetos que favorecen a nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json: 0   |  a nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json: 4   |  empates: 1
+   GANADOR (si p<0.05): nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json
+====================================================================================================
+
+=== (5/6) WILCOXON por sujeto: nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json  VS  nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000000
+   Mediana global de (HV_nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json - HV_nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json) entre sujetos: -93032890.280462
+   Sujetos que favorecen a nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json: 0   |  a nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json: 4   |  empates: 1
+   GANADOR (si p<0.05): nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json
+====================================================================================================
+
+=== (6/6) WILCOXON por sujeto: nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json  VS  nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000000
+   Mediana global de (HV_nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json - HV_nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json) entre sujetos: -65931340.915002
+   Sujetos que favorecen a nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json: 0   |  a nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json: 4   |  empates: 1
+   GANADOR (si p<0.05): nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json
+====================================================================================================
+
+####################################################################################################
+SECCIÓN 2 — ANÁLISIS GLOBAL (Aligned Friedman + Shaffer)
+####################################################################################################
+
+=== FRIEDMAN + SHAFFER (GLOBAL) → 4 métodos × 5 sujetos ===
+   p-Friedman = 0.005935   |   Tiempo: 0.00s
+   [INFO] Se usó X_use = -HV para el ranking (HV es larger-is-better).
+
+   Ranking (menor rank = mejor):
+      1. nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json  → rank=3.400000
+      2. nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json  → rank=7.600000
+      3. nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json  → rank=15.500000
+      4. nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json  → rank=15.500000
+
+   Post-hoc Shaffer (p_adj<0.05) y GANADOR del par:
+     ★ nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json vs nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json  (p_adj=0.000000)   →   Ganador: nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json
+     ★ nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json vs nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json  (p_adj=0.000000)   →   Ganador: nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json
+     ★ nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json vs nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json  (p_adj=0.000000)   →   Ganador: nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json
+     ★ nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json vs nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json  (p_adj=0.000000)   →   Ganador: nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json
+     ★ nsga3_vectores_cruce_uniforme_pc0_6_mut_custom_1_77.json vs nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json  (p_adj=0.000053)   →   Ganador: nsga3_vectores_cruce_uniforme_pc0_9_mut_custom_1_77.json
+       nsga3_vectores_cruce_sbx_pc0_6_mut_custom_1_77.json vs nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json  (p_adj=1.000000)   →   Ganador: nsga3_vectores_cruce_sbx_pc0_9_mut_custom_1_77.json
+====================================================================================================
+

@@ -1,0 +1,14 @@
+﻿name: tfm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.0.1
+  - scipy=1.15.2
+  - matplotlib=3.10.6
+  - seaborn=0.13.2
+  - pymoo=0.6.1.3
+  - pandas=2.3.3
+  - scikit-learn=1.6.1
+  - networkx=3.4.2
+  - pip

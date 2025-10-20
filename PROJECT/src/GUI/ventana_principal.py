@@ -3,16 +3,14 @@
 import tkinter as tk
 from tkinter import ttk
 
-from src.GUI.estilos import configurar_estilos
 from src.GUI.ventana_preguntasusuario import VentanaCalorias
-from src.GUI.ventana_basedatos import BaseDatosApp
+from src.GUI.ventana_comidas import BaseDatosApp
 
 class MainApp:
     """Ventana principal de la aplicacion"""
     
     def __init__(self, root):
         self.root = root
-        configurar_estilos(self.root)
         self.root.title("Planificación nutricional mediante algoritmos evolutivos")
         self.root.minsize(400, 300)
 
@@ -24,7 +22,7 @@ class MainApp:
     
         # Botones de opciones
         ttk.Button(main_frame, text="Planificar el menú", style="Small.TButton", command=self.abrir_calculadora).grid(row=1, column=0, padx=10, pady=10, sticky="n")
-        ttk.Button(main_frame, text="Visualizar la base de datos", style="Small.TButton", command=self.visualizar_base_datos).grid(row=1, column=1, padx=10, pady=10, sticky="n")
+        ttk.Button(main_frame, text="Visualizar la lista de alimentos", style="Small.TButton", command=self.visualizar_base_datos).grid(row=1, column=1, padx=10, pady=10, sticky="n")
 
         # Redimensionamiento de la ventana
         self.root.grid_rowconfigure(0, weight=1)

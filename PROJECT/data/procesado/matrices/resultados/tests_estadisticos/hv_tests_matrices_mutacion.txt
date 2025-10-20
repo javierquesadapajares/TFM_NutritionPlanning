@@ -1,0 +1,623 @@
+####################################################################################################
+SECCIÓN 1 — COMPARACIONES POR PARES (WILCOXON por sujeto + Fisher)
+####################################################################################################
+
+=== (1/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.022250
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (2/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.232819
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (3/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.202849
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (4/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.565250
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (5/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.987493
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (6/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.971513
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (7/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.170287
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (8/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.408312
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (9/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000009
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (10/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.762621
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (11/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.020198
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (12/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.183595
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (13/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.744299
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (14/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.023162
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (15/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000856
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (16/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.178868
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (17/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.087852
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (18/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.363614
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (19/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.052254
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (20/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.001762
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (21/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.798807
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (22/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.619147
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (23/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.802699
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (24/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.054643
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (25/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.220643
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (26/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.736576
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (27/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.633367
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (28/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000136
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (29/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.033428
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (30/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.629824
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (31/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.247047
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (32/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.019887
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (33/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.340068
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (34/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.597395
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (35/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.622854
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (36/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000908
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (37/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.109463
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (38/66) WILCOXON por sujeto: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.458733
+   Mediana global de (HV_nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (39/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.462932
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (40/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.442585
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (41/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.602266
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (42/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.080671
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (43/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000004
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (44/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.600806
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (45/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.093708
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (46/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.961443
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (47/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.185776
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (48/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.203672
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (49/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000000
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (50/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.689955
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (51/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.001187
+   Mediana global de (HV_nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (52/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.519537
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (53/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.592123
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (54/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000110
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (55/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.318553
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (56/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.081573
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (57/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.119041
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (58/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000058
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (59/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.429913
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (60/66) WILCOXON por sujeto: nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.396435
+   Mediana global de (HV_nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (61/66) WILCOXON por sujeto: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.003704
+   Mediana global de (HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (62/66) WILCOXON por sujeto: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.020172
+   Mediana global de (HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (63/66) WILCOXON por sujeto: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.101829
+   Mediana global de (HV_nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (64/66) WILCOXON por sujeto: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000000
+   Mediana global de (HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (65/66) WILCOXON por sujeto: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000844
+   Mediana global de (HV_nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (66/66) WILCOXON por sujeto: nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.006143
+   Mediana global de (HV_nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+####################################################################################################
+SECCIÓN 2 — ANÁLISIS GLOBAL (Aligned Friedman + Shaffer)
+####################################################################################################
+
+=== FRIEDMAN + SHAFFER (GLOBAL) → 12 métodos × 5 sujetos ===
+   p-Friedman = 0.019655   |   Tiempo: 0.00s
+   [INFO] Se usó X_use = -HV para el ranking (HV es larger-is-better).
+
+   Ranking (menor rank = mejor):
+      1. nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  → rank=10.200000
+      2. nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  → rank=17.400000
+      3. nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  → rank=18.400000
+      4. nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  → rank=24.200000
+      5. nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  → rank=26.500000
+      6. nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  → rank=29.300000
+      7. nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  → rank=33.000000
+      8. nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  → rank=36.800000
+      9. nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  → rank=37.900000
+     10. nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json  → rank=40.000000
+     11. nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  → rank=44.300000
+     12. nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  → rank=48.000000
+
+   Post-hoc Shaffer (p_adj<0.05) y GANADOR del par:
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000004)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000011)   →   Ganador: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000171)   →   Ganador: nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.001302)   →   Ganador: nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_similitud_pm0_1_cr_twopoint_0_9.json  (p_adj=0.001725)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.001725)   →   Ganador: nsga3_matrices_mut_coseno_similitud_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.008246)   →   Ganador: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json
+     ★ nsga3_matrices_mut_braycurtis_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.025551)   →   Ganador: nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json
+       nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.085793)   →   Ganador: nsga3_matrices_mut_braycurtis_softmax_pm0_1_cr_twopoint_0_9.json
+       nsga3_matrices_mut_braycurtis_similitud_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.107187)   →   Ganador: nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json
+       nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json vs nsga3_matrices_mut_coseno_softmax_pm0_1_cr_twopoint_0_9.json  (p_adj=0.542664)   →   Ganador: nsga3_matrices_mut_coseno_softmax_pm0_012987_cr_twopoint_0_9.json
+       nsga3_matrices_mut_braycurtis_similitud_pm0_1_cr_twopoint_0_9.json vs nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.542664)   →   Ganador: nsga3_matrices_mut_jaccard_similitud_pm0_012987_cr_twopoint_0_9.json
+====================================================================================================
+

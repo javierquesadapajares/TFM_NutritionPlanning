@@ -1,0 +1,75 @@
+####################################################################################################
+SECCIÓN 1 — COMPARACIONES POR PARES (WILCOXON por sujeto + Fisher)
+####################################################################################################
+
+=== (1/6) WILCOXON por sujeto: nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000989
+   Mediana global de (HV_nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (2/6) WILCOXON por sujeto: nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.852217
+   Mediana global de (HV_nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (3/6) WILCOXON por sujeto: nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000147
+   Mediana global de (HV_nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (4/6) WILCOXON por sujeto: nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json  VS  nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.003858
+   Mediana global de (HV_nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json - HV_nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json: 1   |  a nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (5/6) WILCOXON por sujeto: nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json  VS  nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.075563
+   Mediana global de (HV_nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json - HV_nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json: 0   |  a nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (6/6) WILCOXON por sujeto: nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json  VS  nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.001575
+   Mediana global de (HV_nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json - HV_nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json: 0   |  a nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+####################################################################################################
+SECCIÓN 2 — ANÁLISIS GLOBAL (Aligned Friedman + Shaffer)
+####################################################################################################
+
+=== FRIEDMAN + SHAFFER (GLOBAL) → 4 métodos × 5 sujetos ===
+   p-Friedman = 0.019638   |   Tiempo: 0.00s
+   [INFO] Se usó X_use = -HV para el ranking (HV es larger-is-better).
+
+   Ranking (menor rank = mejor):
+      1. nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json  → rank=4.200000
+      2. nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json  → rank=7.900000
+      3. nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json  → rank=14.500000
+      4. nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json  → rank=15.400000
+
+   Post-hoc Shaffer (p_adj<0.05) y GANADOR del par:
+     ★ nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json vs nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json vs nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json vs nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json vs nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000000)   →   Ganador: nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json
+     ★ nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json vs nsga3_grafos_mut_coseno_knn_radius_pm0_1_cr_twopoint_0_9.json  (p_adj=0.000431)   →   Ganador: nsga3_grafos_mut_coseno_knn_community_pm0_1_cr_twopoint_0_9.json
+       nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json vs nsga3_grafos_mut_coseno_knn_radius_pm0_012987_cr_twopoint_0_9.json  (p_adj=0.368120)   →   Ganador: nsga3_grafos_mut_coseno_knn_community_pm0_012987_cr_twopoint_0_9.json
+====================================================================================================
+

@@ -1,0 +1,1898 @@
+{
+    "descripcion": "Métrica: jaccard — Cruce: consenso (p=0.9) — Mutación: custom (p=1/77) — Algoritmo: NSGA-III",
+    "resultados": [
+        {
+            "sujeto_id": 1,
+            "calorias": 2877.19,
+            "edad": 17,
+            "alergias": [
+                "S",
+                "SE",
+                "SEA",
+                "SEC",
+                "SN",
+                "SNA",
+                "SNC"
+            ],
+            "gustos": [
+                "AC",
+                "AD",
+                "MCA"
+            ],
+            "disgustos": [
+                "BR",
+                "J",
+                "JA",
+                "JC",
+                "JK",
+                "JM",
+                "JR"
+            ],
+            "soluciones_por_seed": [
+                {
+                    "seed": 6,
+                    "tiempo_ejecucion": "58.48",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3280.370353884959,
+                    "cv_mediana": 4052.7203716292843,
+                    "cv_media": 3984.4133612441283,
+                    "soluciones": []
+                },
+                {
+                    "seed": 26,
+                    "tiempo_ejecucion": "61.82",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3914.071306613308,
+                    "cv_mediana": 4576.628304095984,
+                    "cv_media": 4543.935698641011,
+                    "soluciones": []
+                },
+                {
+                    "seed": 59,
+                    "tiempo_ejecucion": "59.20",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3829.3037922698713,
+                    "cv_mediana": 4311.608376621185,
+                    "cv_media": 4291.660572321168,
+                    "soluciones": []
+                },
+                {
+                    "seed": 60,
+                    "tiempo_ejecucion": "59.72",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4639.701589447982,
+                    "cv_mediana": 5350.89823362064,
+                    "cv_media": 5305.036906303051,
+                    "soluciones": []
+                },
+                {
+                    "seed": 79,
+                    "tiempo_ejecucion": "60.56",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3301.0614192130274,
+                    "cv_mediana": 4001.7515386752953,
+                    "cv_media": 3916.7810913749768,
+                    "soluciones": []
+                },
+                {
+                    "seed": 93,
+                    "tiempo_ejecucion": "60.58",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4599.842248244999,
+                    "cv_mediana": 5035.3887655406315,
+                    "cv_media": 5036.414666480426,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489,
+                    "tiempo_ejecucion": "61.10",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3851.4857977212555,
+                    "cv_mediana": 4625.526587928396,
+                    "cv_media": 4560.161544110615,
+                    "soluciones": []
+                },
+                {
+                    "seed": 608,
+                    "tiempo_ejecucion": "59.49",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3719.488427449203,
+                    "cv_mediana": 4553.28724467301,
+                    "cv_media": 4475.999912228072,
+                    "soluciones": []
+                },
+                {
+                    "seed": 634,
+                    "tiempo_ejecucion": "61.03",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4854.5665535511625,
+                    "cv_mediana": 5455.4118574797285,
+                    "cv_media": 5440.189044252458,
+                    "soluciones": []
+                },
+                {
+                    "seed": 684,
+                    "tiempo_ejecucion": "60.12",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3975.879770327557,
+                    "cv_mediana": 5083.7496485773645,
+                    "cv_media": 4985.662130788201,
+                    "soluciones": []
+                },
+                {
+                    "seed": 784,
+                    "tiempo_ejecucion": "60.28",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3998.4722841933226,
+                    "cv_mediana": 4912.967754692712,
+                    "cv_media": 4846.911834448355,
+                    "soluciones": []
+                },
+                {
+                    "seed": 930,
+                    "tiempo_ejecucion": "59.94",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4818.888875696222,
+                    "cv_mediana": 5351.687571416864,
+                    "cv_media": 5305.201764524652,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3364,
+                    "tiempo_ejecucion": "61.88",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4350.971973920643,
+                    "cv_mediana": 5172.811208928526,
+                    "cv_media": 5120.200207782351,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3608,
+                    "tiempo_ejecucion": "59.94",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4218.322490441432,
+                    "cv_mediana": 4851.65793363458,
+                    "cv_media": 4756.1251431066285,
+                    "soluciones": []
+                },
+                {
+                    "seed": 4845,
+                    "tiempo_ejecucion": "59.65",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4547.47863047517,
+                    "cv_mediana": 5384.952284183278,
+                    "cv_media": 5326.631793530882,
+                    "soluciones": []
+                },
+                {
+                    "seed": 5375,
+                    "tiempo_ejecucion": "58.88",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4894.908965696273,
+                    "cv_mediana": 5334.853429134072,
+                    "cv_media": 5285.597560434094,
+                    "soluciones": []
+                },
+                {
+                    "seed": 8542,
+                    "tiempo_ejecucion": "61.83",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3962.005094766391,
+                    "cv_mediana": 4986.708324380194,
+                    "cv_media": 4914.1430627429645,
+                    "soluciones": []
+                },
+                {
+                    "seed": 9397,
+                    "tiempo_ejecucion": "60.79",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4884.936392455544,
+                    "cv_mediana": 5584.616699811331,
+                    "cv_media": 5506.045949110579,
+                    "soluciones": []
+                },
+                {
+                    "seed": 11320,
+                    "tiempo_ejecucion": "60.48",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4325.755679805361,
+                    "cv_mediana": 4664.073384546891,
+                    "cv_media": 4635.653306931193,
+                    "soluciones": []
+                },
+                {
+                    "seed": 14648,
+                    "tiempo_ejecucion": "60.77",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4140.270582835698,
+                    "cv_mediana": 4766.194447341688,
+                    "cv_media": 4742.571521133245,
+                    "soluciones": []
+                },
+                {
+                    "seed": 39843,
+                    "tiempo_ejecucion": "61.39",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4105.863142541878,
+                    "cv_mediana": 4875.390991308359,
+                    "cv_media": 4843.474736718061,
+                    "soluciones": []
+                },
+                {
+                    "seed": 73886,
+                    "tiempo_ejecucion": "60.27",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4598.445156092124,
+                    "cv_mediana": 4966.715090759375,
+                    "cv_media": 4939.885071276129,
+                    "soluciones": []
+                },
+                {
+                    "seed": 83186,
+                    "tiempo_ejecucion": "65.01",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4952.191174954141,
+                    "cv_mediana": 5689.788187957729,
+                    "cv_media": 5646.1285159731315,
+                    "soluciones": []
+                },
+                {
+                    "seed": 97870,
+                    "tiempo_ejecucion": "60.88",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3919.5254079010833,
+                    "cv_mediana": 4397.913424351707,
+                    "cv_media": 4392.8616803378545,
+                    "soluciones": []
+                },
+                {
+                    "seed": 152822,
+                    "tiempo_ejecucion": "60.26",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4611.988482132486,
+                    "cv_mediana": 5038.091143873824,
+                    "cv_media": 5000.17978686885,
+                    "soluciones": []
+                },
+                {
+                    "seed": 211193,
+                    "tiempo_ejecucion": "60.02",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4380.9412781785095,
+                    "cv_mediana": 5093.119416385873,
+                    "cv_media": 5061.2418974970615,
+                    "soluciones": []
+                },
+                {
+                    "seed": 226880,
+                    "tiempo_ejecucion": "60.30",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4742.822762326228,
+                    "cv_mediana": 5400.0003487320555,
+                    "cv_media": 5359.149620631381,
+                    "soluciones": []
+                },
+                {
+                    "seed": 315529,
+                    "tiempo_ejecucion": "60.60",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4459.270400314572,
+                    "cv_mediana": 4959.497547303588,
+                    "cv_media": 4948.870236762272,
+                    "soluciones": []
+                },
+                {
+                    "seed": 428397,
+                    "tiempo_ejecucion": "63.62",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4817.287749002002,
+                    "cv_mediana": 5427.610085489526,
+                    "cv_media": 5380.364568279953,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489166,
+                    "tiempo_ejecucion": "59.87",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3951.694551432104,
+                    "cv_mediana": 4529.941633656015,
+                    "cv_media": 4483.48523256036,
+                    "soluciones": []
+                },
+                {
+                    "seed": 526568,
+                    "tiempo_ejecucion": "60.51",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5007.496899926933,
+                    "cv_mediana": 5630.396104372208,
+                    "cv_media": 5579.77966732846,
+                    "soluciones": []
+                }
+            ]
+        },
+        {
+            "sujeto_id": 2,
+            "calorias": 2567.85,
+            "edad": 30,
+            "alergias": [
+                "A",
+                "AB",
+                "AC",
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AI",
+                "AK",
+                "AM",
+                "AN",
+                "AO",
+                "AP",
+                "AS",
+                "AT"
+            ],
+            "gustos": [
+                "BAE",
+                "FC",
+                "FE"
+            ],
+            "disgustos": [
+                "C",
+                "CA",
+                "CD",
+                "CDE",
+                "CDH"
+            ],
+            "soluciones_por_seed": [
+                {
+                    "seed": 6,
+                    "tiempo_ejecucion": "61.30",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5494.249560907094,
+                    "cv_mediana": 6306.2233976117805,
+                    "cv_media": 6275.331314696785,
+                    "soluciones": []
+                },
+                {
+                    "seed": 26,
+                    "tiempo_ejecucion": "59.74",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4619.214181228076,
+                    "cv_mediana": 5258.838032984693,
+                    "cv_media": 5230.676080185014,
+                    "soluciones": []
+                },
+                {
+                    "seed": 59,
+                    "tiempo_ejecucion": "61.55",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5041.143685286387,
+                    "cv_mediana": 6166.389040321803,
+                    "cv_media": 6118.5650069051735,
+                    "soluciones": []
+                },
+                {
+                    "seed": 60,
+                    "tiempo_ejecucion": "61.57",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5690.262807317668,
+                    "cv_mediana": 6661.696563155614,
+                    "cv_media": 6589.268238322854,
+                    "soluciones": []
+                },
+                {
+                    "seed": 79,
+                    "tiempo_ejecucion": "62.08",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5067.102986968976,
+                    "cv_mediana": 5853.363127428327,
+                    "cv_media": 5811.971548985338,
+                    "soluciones": []
+                },
+                {
+                    "seed": 93,
+                    "tiempo_ejecucion": "63.07",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5996.582769326502,
+                    "cv_mediana": 6837.103225474058,
+                    "cv_media": 6753.367975375435,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489,
+                    "tiempo_ejecucion": "60.11",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5027.374600270542,
+                    "cv_mediana": 5557.593668918203,
+                    "cv_media": 5497.91149344463,
+                    "soluciones": []
+                },
+                {
+                    "seed": 608,
+                    "tiempo_ejecucion": "63.89",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5684.567723650277,
+                    "cv_mediana": 6312.844817541949,
+                    "cv_media": 6258.271043568583,
+                    "soluciones": []
+                },
+                {
+                    "seed": 634,
+                    "tiempo_ejecucion": "60.23",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5623.234204760823,
+                    "cv_mediana": 6448.029716396995,
+                    "cv_media": 6425.478788168372,
+                    "soluciones": []
+                },
+                {
+                    "seed": 684,
+                    "tiempo_ejecucion": "60.18",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5131.495710206593,
+                    "cv_mediana": 6001.786982718404,
+                    "cv_media": 5964.412223468331,
+                    "soluciones": []
+                },
+                {
+                    "seed": 784,
+                    "tiempo_ejecucion": "60.27",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5024.536595614632,
+                    "cv_mediana": 5677.237742808956,
+                    "cv_media": 5667.210414036257,
+                    "soluciones": []
+                },
+                {
+                    "seed": 930,
+                    "tiempo_ejecucion": "59.86",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6092.740374236253,
+                    "cv_mediana": 6825.004540844259,
+                    "cv_media": 6732.019669849708,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3364,
+                    "tiempo_ejecucion": "59.10",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5619.936564217849,
+                    "cv_mediana": 6520.968986969814,
+                    "cv_media": 6480.4488079184575,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3608,
+                    "tiempo_ejecucion": "59.99",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4948.774403728301,
+                    "cv_mediana": 5546.351327996356,
+                    "cv_media": 5472.666165637102,
+                    "soluciones": []
+                },
+                {
+                    "seed": 4845,
+                    "tiempo_ejecucion": "60.68",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6540.188670701625,
+                    "cv_mediana": 7392.438401604007,
+                    "cv_media": 7332.097574472228,
+                    "soluciones": []
+                },
+                {
+                    "seed": 5375,
+                    "tiempo_ejecucion": "61.31",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6763.121890895375,
+                    "cv_mediana": 7464.079896390008,
+                    "cv_media": 7474.2547923622515,
+                    "soluciones": []
+                },
+                {
+                    "seed": 8542,
+                    "tiempo_ejecucion": "58.90",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5663.637722192628,
+                    "cv_mediana": 6488.751256357584,
+                    "cv_media": 6457.738319161886,
+                    "soluciones": []
+                },
+                {
+                    "seed": 9397,
+                    "tiempo_ejecucion": "60.98",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6012.080308350732,
+                    "cv_mediana": 6601.881994383929,
+                    "cv_media": 6664.350944154988,
+                    "soluciones": []
+                },
+                {
+                    "seed": 11320,
+                    "tiempo_ejecucion": "59.94",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5751.558825699725,
+                    "cv_mediana": 6550.186338965631,
+                    "cv_media": 6514.036139361283,
+                    "soluciones": []
+                },
+                {
+                    "seed": 14648,
+                    "tiempo_ejecucion": "59.83",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6273.011714196858,
+                    "cv_mediana": 6977.747555028441,
+                    "cv_media": 6992.893078463635,
+                    "soluciones": []
+                },
+                {
+                    "seed": 39843,
+                    "tiempo_ejecucion": "59.94",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6455.225839387346,
+                    "cv_mediana": 7076.659104992525,
+                    "cv_media": 7076.875733330973,
+                    "soluciones": []
+                },
+                {
+                    "seed": 73886,
+                    "tiempo_ejecucion": "61.11",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5472.371041535912,
+                    "cv_mediana": 6068.932832828418,
+                    "cv_media": 6040.508897847636,
+                    "soluciones": []
+                },
+                {
+                    "seed": 83186,
+                    "tiempo_ejecucion": "60.82",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5413.807195250311,
+                    "cv_mediana": 6564.839059894575,
+                    "cv_media": 6487.804473130008,
+                    "soluciones": []
+                },
+                {
+                    "seed": 97870,
+                    "tiempo_ejecucion": "60.63",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6464.258694695529,
+                    "cv_mediana": 7180.390966212724,
+                    "cv_media": 7123.676558534189,
+                    "soluciones": []
+                },
+                {
+                    "seed": 152822,
+                    "tiempo_ejecucion": "61.78",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5706.0282536633285,
+                    "cv_mediana": 6364.005650120869,
+                    "cv_media": 6288.50473038898,
+                    "soluciones": []
+                },
+                {
+                    "seed": 211193,
+                    "tiempo_ejecucion": "60.84",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5833.375806225868,
+                    "cv_mediana": 6571.626891514317,
+                    "cv_media": 6500.602354030019,
+                    "soluciones": []
+                },
+                {
+                    "seed": 226880,
+                    "tiempo_ejecucion": "60.49",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6561.857312350007,
+                    "cv_mediana": 7333.85973682821,
+                    "cv_media": 7235.527009149577,
+                    "soluciones": []
+                },
+                {
+                    "seed": 315529,
+                    "tiempo_ejecucion": "60.85",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6496.384746760645,
+                    "cv_mediana": 7389.433599194517,
+                    "cv_media": 7362.496440627956,
+                    "soluciones": []
+                },
+                {
+                    "seed": 428397,
+                    "tiempo_ejecucion": "60.06",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6213.925997746002,
+                    "cv_mediana": 6834.668694161996,
+                    "cv_media": 6799.426661308236,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489166,
+                    "tiempo_ejecucion": "60.08",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5259.288416409861,
+                    "cv_mediana": 6052.596835319356,
+                    "cv_media": 5997.495401497664,
+                    "soluciones": []
+                },
+                {
+                    "seed": 526568,
+                    "tiempo_ejecucion": "61.31",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5475.066011262913,
+                    "cv_mediana": 6348.93349153429,
+                    "cv_media": 6284.349354823437,
+                    "soluciones": []
+                }
+            ]
+        },
+        {
+            "sujeto_id": 3,
+            "calorias": 3102.84,
+            "edad": 40,
+            "alergias": [
+                "PAC",
+                "PCA",
+                "SNC"
+            ],
+            "gustos": [
+                "DAP",
+                "MAC",
+                "SEA"
+            ],
+            "disgustos": [
+                "BH",
+                "BJS",
+                "MIG"
+            ],
+            "soluciones_por_seed": [
+                {
+                    "seed": 6,
+                    "tiempo_ejecucion": "59.54",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4576.677470448536,
+                    "cv_mediana": 5298.631856555168,
+                    "cv_media": 5282.1103106968585,
+                    "soluciones": []
+                },
+                {
+                    "seed": 26,
+                    "tiempo_ejecucion": "59.72",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3479.364696323523,
+                    "cv_mediana": 4486.0439174692465,
+                    "cv_media": 4408.220566824547,
+                    "soluciones": []
+                },
+                {
+                    "seed": 59,
+                    "tiempo_ejecucion": "59.88",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3929.46207734872,
+                    "cv_mediana": 5202.936977687519,
+                    "cv_media": 5103.954054141499,
+                    "soluciones": []
+                },
+                {
+                    "seed": 60,
+                    "tiempo_ejecucion": "60.50",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4838.584155326598,
+                    "cv_mediana": 5619.660982153595,
+                    "cv_media": 5587.58742745884,
+                    "soluciones": []
+                },
+                {
+                    "seed": 79,
+                    "tiempo_ejecucion": "60.53",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4555.648572191185,
+                    "cv_mediana": 5490.439267856762,
+                    "cv_media": 5409.377469732858,
+                    "soluciones": []
+                },
+                {
+                    "seed": 93,
+                    "tiempo_ejecucion": "60.74",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5921.159210669724,
+                    "cv_mediana": 6523.960249720627,
+                    "cv_media": 6477.269963325259,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489,
+                    "tiempo_ejecucion": "60.52",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5610.209316961971,
+                    "cv_mediana": 6392.890902673503,
+                    "cv_media": 6304.618760758519,
+                    "soluciones": []
+                },
+                {
+                    "seed": 608,
+                    "tiempo_ejecucion": "61.07",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5391.976283959789,
+                    "cv_mediana": 6090.209785591665,
+                    "cv_media": 6049.716288406211,
+                    "soluciones": []
+                },
+                {
+                    "seed": 634,
+                    "tiempo_ejecucion": "60.87",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6090.75505831453,
+                    "cv_mediana": 7005.387737595789,
+                    "cv_media": 6963.767727958322,
+                    "soluciones": []
+                },
+                {
+                    "seed": 684,
+                    "tiempo_ejecucion": "60.63",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5427.118965740152,
+                    "cv_mediana": 6391.922287308462,
+                    "cv_media": 6321.840361887035,
+                    "soluciones": []
+                },
+                {
+                    "seed": 784,
+                    "tiempo_ejecucion": "60.22",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4720.140008817298,
+                    "cv_mediana": 5670.03007481565,
+                    "cv_media": 5595.315658940734,
+                    "soluciones": []
+                },
+                {
+                    "seed": 930,
+                    "tiempo_ejecucion": "60.86",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5659.569837345517,
+                    "cv_mediana": 6334.278203099568,
+                    "cv_media": 6285.318602393897,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3364,
+                    "tiempo_ejecucion": "61.12",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5324.365482468279,
+                    "cv_mediana": 5967.920778587397,
+                    "cv_media": 5924.572320590267,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3608,
+                    "tiempo_ejecucion": "61.44",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5212.13697412361,
+                    "cv_mediana": 5784.2098958981105,
+                    "cv_media": 5765.122618590875,
+                    "soluciones": []
+                },
+                {
+                    "seed": 4845,
+                    "tiempo_ejecucion": "61.43",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5479.765574017169,
+                    "cv_mediana": 6085.681320279538,
+                    "cv_media": 6061.398647904096,
+                    "soluciones": []
+                },
+                {
+                    "seed": 5375,
+                    "tiempo_ejecucion": "58.96",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 3693.8019031714307,
+                    "cv_mediana": 4545.238587504649,
+                    "cv_media": 4447.608667907175,
+                    "soluciones": []
+                },
+                {
+                    "seed": 8542,
+                    "tiempo_ejecucion": "59.16",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4736.147350758812,
+                    "cv_mediana": 5680.668528068078,
+                    "cv_media": 5636.929616195566,
+                    "soluciones": []
+                },
+                {
+                    "seed": 9397,
+                    "tiempo_ejecucion": "61.70",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5181.103738176306,
+                    "cv_mediana": 6144.92402927093,
+                    "cv_media": 6084.53382944292,
+                    "soluciones": []
+                },
+                {
+                    "seed": 11320,
+                    "tiempo_ejecucion": "61.11",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4292.545092765446,
+                    "cv_mediana": 5010.5342918877395,
+                    "cv_media": 4944.206174018925,
+                    "soluciones": []
+                },
+                {
+                    "seed": 14648,
+                    "tiempo_ejecucion": "60.70",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4926.807181393295,
+                    "cv_mediana": 6124.969880414465,
+                    "cv_media": 6032.348039751778,
+                    "soluciones": []
+                },
+                {
+                    "seed": 39843,
+                    "tiempo_ejecucion": "64.24",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4827.466079388305,
+                    "cv_mediana": 5906.614378153617,
+                    "cv_media": 5868.180665203411,
+                    "soluciones": []
+                },
+                {
+                    "seed": 73886,
+                    "tiempo_ejecucion": "60.39",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5195.947412409716,
+                    "cv_mediana": 5955.463337005585,
+                    "cv_media": 5918.274519938988,
+                    "soluciones": []
+                },
+                {
+                    "seed": 83186,
+                    "tiempo_ejecucion": "60.27",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5594.94419101428,
+                    "cv_mediana": 6435.769820412664,
+                    "cv_media": 6407.530722423769,
+                    "soluciones": []
+                },
+                {
+                    "seed": 97870,
+                    "tiempo_ejecucion": "60.53",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5741.074332600254,
+                    "cv_mediana": 6607.562583902577,
+                    "cv_media": 6559.421330883906,
+                    "soluciones": []
+                },
+                {
+                    "seed": 152822,
+                    "tiempo_ejecucion": "59.83",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5043.796582109398,
+                    "cv_mediana": 5652.6853853691255,
+                    "cv_media": 5604.765703284977,
+                    "soluciones": []
+                },
+                {
+                    "seed": 211193,
+                    "tiempo_ejecucion": "59.92",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6170.4210768568,
+                    "cv_mediana": 6984.575008447089,
+                    "cv_media": 6921.628498788018,
+                    "soluciones": []
+                },
+                {
+                    "seed": 226880,
+                    "tiempo_ejecucion": "60.94",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5181.482023390022,
+                    "cv_mediana": 5801.751556779316,
+                    "cv_media": 5767.051769755982,
+                    "soluciones": []
+                },
+                {
+                    "seed": 315529,
+                    "tiempo_ejecucion": "60.37",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5533.067611949169,
+                    "cv_mediana": 6120.985485234142,
+                    "cv_media": 6087.965818396261,
+                    "soluciones": []
+                },
+                {
+                    "seed": 428397,
+                    "tiempo_ejecucion": "60.63",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5890.198361105236,
+                    "cv_mediana": 6873.5235901454835,
+                    "cv_media": 6831.26137135279,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489166,
+                    "tiempo_ejecucion": "59.92",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 4073.83265744896,
+                    "cv_mediana": 4769.126545387277,
+                    "cv_media": 4764.118831323661,
+                    "soluciones": []
+                },
+                {
+                    "seed": 526568,
+                    "tiempo_ejecucion": "59.19",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5091.310664222484,
+                    "cv_mediana": 6166.275479787817,
+                    "cv_media": 6108.561691406899,
+                    "soluciones": []
+                }
+            ]
+        },
+        {
+            "sujeto_id": 4,
+            "calorias": 1710.5,
+            "edad": 55,
+            "alergias": [
+                "F",
+                "FA",
+                "FC",
+                "FE"
+            ],
+            "gustos": [
+                "AF",
+                "BNH"
+            ],
+            "disgustos": [
+                "MB",
+                "QA",
+                "QC"
+            ],
+            "soluciones_por_seed": [
+                {
+                    "seed": 6,
+                    "tiempo_ejecucion": "61.07",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7001240.261022874,
+                    "cv_mediana": 8001602.036106724,
+                    "cv_media": 8041603.378257073,
+                    "soluciones": []
+                },
+                {
+                    "seed": 26,
+                    "tiempo_ejecucion": "60.92",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7003103.697340993,
+                    "cv_mediana": 9002049.343532588,
+                    "cv_media": 8812367.37812793,
+                    "soluciones": []
+                },
+                {
+                    "seed": 59,
+                    "tiempo_ejecucion": "59.89",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6001255.625290554,
+                    "cv_mediana": 7002125.496364249,
+                    "cv_media": 7470802.159221548,
+                    "soluciones": []
+                },
+                {
+                    "seed": 60,
+                    "tiempo_ejecucion": "61.49",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 5002412.180296367,
+                    "cv_mediana": 7001713.003788592,
+                    "cv_media": 6612008.222060735,
+                    "soluciones": []
+                },
+                {
+                    "seed": 79,
+                    "tiempo_ejecucion": "60.44",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 8001959.312784832,
+                    "cv_mediana": 9001714.24725065,
+                    "cv_media": 8951803.34205058,
+                    "soluciones": []
+                },
+                {
+                    "seed": 93,
+                    "tiempo_ejecucion": "59.89",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 8000962.974992887,
+                    "cv_mediana": 9001956.37589423,
+                    "cv_media": 9410810.530392082,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489,
+                    "tiempo_ejecucion": "60.83",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7003196.525962876,
+                    "cv_mediana": 9001369.598204453,
+                    "cv_media": 8591998.31443885,
+                    "soluciones": []
+                },
+                {
+                    "seed": 608,
+                    "tiempo_ejecucion": "60.58",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6002679.783713528,
+                    "cv_mediana": 8001966.735774217,
+                    "cv_media": 7882005.328145904,
+                    "soluciones": []
+                },
+                {
+                    "seed": 634,
+                    "tiempo_ejecucion": "59.82",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6002141.149014224,
+                    "cv_mediana": 8000963.095841618,
+                    "cv_media": 7701196.538041563,
+                    "soluciones": []
+                },
+                {
+                    "seed": 684,
+                    "tiempo_ejecucion": "58.87",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7004295.851946703,
+                    "cv_mediana": 9002709.663474686,
+                    "cv_media": 8753094.274595827,
+                    "soluciones": []
+                },
+                {
+                    "seed": 784,
+                    "tiempo_ejecucion": "60.38",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 8001142.261427892,
+                    "cv_mediana": 9001198.271002252,
+                    "cv_media": 8981261.757393312,
+                    "soluciones": []
+                },
+                {
+                    "seed": 930,
+                    "tiempo_ejecucion": "60.28",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7001700.273425482,
+                    "cv_mediana": 8001723.053372165,
+                    "cv_media": 7901773.528505203,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3364,
+                    "tiempo_ejecucion": "60.05",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6003828.8850111775,
+                    "cv_mediana": 7003461.026753464,
+                    "cv_media": 6983388.4981643045,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3608,
+                    "tiempo_ejecucion": "60.38",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7002368.623884854,
+                    "cv_mediana": 8002424.323305278,
+                    "cv_media": 7712711.319566147,
+                    "soluciones": []
+                },
+                {
+                    "seed": 4845,
+                    "tiempo_ejecucion": "60.99",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6001933.139419695,
+                    "cv_mediana": 7002414.878463713,
+                    "cv_media": 6742518.212724894,
+                    "soluciones": []
+                },
+                {
+                    "seed": 5375,
+                    "tiempo_ejecucion": "60.48",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6002187.728999872,
+                    "cv_mediana": 7001906.369981893,
+                    "cv_media": 6582563.784846563,
+                    "soluciones": []
+                },
+                {
+                    "seed": 8542,
+                    "tiempo_ejecucion": "60.96",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6001593.905685064,
+                    "cv_mediana": 7001400.67578062,
+                    "cv_media": 6861550.096658281,
+                    "soluciones": []
+                },
+                {
+                    "seed": 9397,
+                    "tiempo_ejecucion": "61.04",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 8003122.357140228,
+                    "cv_mediana": 9002707.469638877,
+                    "cv_media": 9331980.58591683,
+                    "soluciones": []
+                },
+                {
+                    "seed": 11320,
+                    "tiempo_ejecucion": "61.80",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7001346.214976805,
+                    "cv_mediana": 8001385.754933242,
+                    "cv_media": 8201206.442067809,
+                    "soluciones": []
+                },
+                {
+                    "seed": 14648,
+                    "tiempo_ejecucion": "62.10",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7002107.916143156,
+                    "cv_mediana": 8001856.430496827,
+                    "cv_media": 8451353.408735618,
+                    "soluciones": []
+                },
+                {
+                    "seed": 39843,
+                    "tiempo_ejecucion": "60.63",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7002523.887817679,
+                    "cv_mediana": 9002587.404148452,
+                    "cv_media": 8812639.372220462,
+                    "soluciones": []
+                },
+                {
+                    "seed": 73886,
+                    "tiempo_ejecucion": "60.90",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7001816.541617243,
+                    "cv_mediana": 9001589.748145306,
+                    "cv_media": 8621931.902530178,
+                    "soluciones": []
+                },
+                {
+                    "seed": 83186,
+                    "tiempo_ejecucion": "59.11",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6004056.819449172,
+                    "cv_mediana": 8003302.894880035,
+                    "cv_media": 7713521.491827862,
+                    "soluciones": []
+                },
+                {
+                    "seed": 97870,
+                    "tiempo_ejecucion": "61.09",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 9001642.611733058,
+                    "cv_mediana": 10001749.826739222,
+                    "cv_media": 9891794.988393608,
+                    "soluciones": []
+                },
+                {
+                    "seed": 152822,
+                    "tiempo_ejecucion": "61.24",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7003027.656341583,
+                    "cv_mediana": 8002854.720406026,
+                    "cv_media": 8042903.5094229095,
+                    "soluciones": []
+                },
+                {
+                    "seed": 211193,
+                    "tiempo_ejecucion": "60.98",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 8001378.027461642,
+                    "cv_mediana": 9001321.31804984,
+                    "cv_media": 8811385.79932664,
+                    "soluciones": []
+                },
+                {
+                    "seed": 226880,
+                    "tiempo_ejecucion": "61.57",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 6001692.103036999,
+                    "cv_mediana": 7002111.2695221165,
+                    "cv_media": 6782136.945593878,
+                    "soluciones": []
+                },
+                {
+                    "seed": 315529,
+                    "tiempo_ejecucion": "60.19",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 8001427.418778178,
+                    "cv_mediana": 9002082.689404003,
+                    "cv_media": 9431598.3073893,
+                    "soluciones": []
+                },
+                {
+                    "seed": 428397,
+                    "tiempo_ejecucion": "62.91",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7002720.135903131,
+                    "cv_mediana": 10001278.819653954,
+                    "cv_media": 9551729.706686694,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489166,
+                    "tiempo_ejecucion": "61.68",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7002372.578073421,
+                    "cv_mediana": 8002834.942516664,
+                    "cv_media": 8401855.41044754,
+                    "soluciones": []
+                },
+                {
+                    "seed": 526568,
+                    "tiempo_ejecucion": "59.23",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7001170.87101937,
+                    "cv_mediana": 8001310.4884452205,
+                    "cv_media": 7781431.29541103,
+                    "soluciones": []
+                }
+            ]
+        },
+        {
+            "sujeto_id": 5,
+            "calorias": 1401.3,
+            "edad": 72,
+            "alergias": [
+                "BA",
+                "BAB",
+                "BAE",
+                "BAH",
+                "BAK",
+                "BAR",
+                "BH"
+            ],
+            "gustos": [
+                "AM",
+                "JC"
+            ],
+            "disgustos": [
+                "MG",
+                "MR"
+            ],
+            "soluciones_por_seed": [
+                {
+                    "seed": 6,
+                    "tiempo_ejecucion": "61.45",
+                    "num_soluciones": 8,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 21.174938474170705,
+                    "cv_media": 15.678015645072819,
+                    "soluciones": [
+                        {
+                            "solucion": "[303, 160, 1809, 954, 497, 1757, 1822, 1042, 2433, 1111, 1919, 225, 937, 1950, 1120, 1570, 1722, 1834, 999, 2196, 757, 1909, 965, 966, 1888, 961, 2471, 1212, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 1458, 1818, 28, 184, 1800, 1090, 2380, 1204, 1894, 1133, 539, 944, 1909, 104, 1030, 1926, 965, 1439, 2470, 1819, 1018, 2000, 2057, 1901, 278, 2580, 1812, 1146, 2549, 2483, 1947, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                350.70000000000005,
+                                89.15225574145549,
+                                150.0
+                            ]
+                        },
+                        {
+                            "solucion": "[303, 58, 1809, 954, 497, 1757, 1822, 1042, 2433, 1111, 1919, 225, 937, 1950, 1120, 1570, 1722, 1834, 999, 2196, 757, 1909, 965, 966, 1888, 961, 2471, 1212, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 1458, 1818, 28, 184, 1800, 1090, 2380, 1204, 1894, 1133, 539, 944, 1909, 104, 1030, 1926, 965, 1439, 2470, 1819, 1018, 2000, 2057, 1901, 278, 2580, 1812, 1146, 2549, 2483, 1947, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                338.70000000000005,
+                                97.29817270027252,
+                                200.0
+                            ]
+                        },
+                        {
+                            "solucion": "[303, 160, 1809, 954, 497, 1757, 1822, 1042, 2433, 1111, 1919, 225, 937, 1950, 1049, 1570, 1722, 1834, 999, 2196, 757, 1909, 965, 966, 1888, 961, 2471, 1212, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 1458, 1818, 28, 184, 1800, 1090, 2380, 1204, 1894, 1133, 539, 944, 1909, 104, 1030, 1926, 965, 1439, 2470, 1819, 1018, 2000, 2057, 1901, 278, 2580, 1812, 1146, 2549, 2483, 1947, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                345.70000000000005,
+                                90.65573021831695,
+                                150.0
+                            ]
+                        },
+                        {
+                            "solucion": "[303, 58, 1809, 954, 497, 1757, 1822, 1042, 2433, 1111, 1919, 225, 937, 1950, 1120, 1570, 1722, 1834, 999, 1972, 757, 1909, 965, 966, 1888, 961, 2471, 1212, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 1458, 1818, 28, 184, 1800, 1090, 2380, 1204, 1894, 1133, 539, 944, 1909, 104, 1030, 1926, 965, 1439, 2470, 1819, 1018, 2000, 2057, 1901, 278, 2580, 1812, 1146, 2549, 2483, 1947, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                337.70000000000005,
+                                99.40763612146789,
+                                200.0
+                            ]
+                        },
+                        {
+                            "solucion": "[303, 160, 1809, 954, 497, 1757, 1822, 1042, 2433, 1111, 1919, 225, 937, 1950, 1120, 1570, 1122, 1834, 999, 2196, 757, 1961, 965, 966, 1888, 961, 2471, 1212, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 2188, 1818, 224, 184, 1809, 1090, 14, 1204, 1894, 1133, 539, 944, 1902, 104, 1030, 1926, 965, 1439, 2470, 1819, 1018, 1692, 2057, 1901, 278, 2580, 1061, 1146, 2549, 2483, 1838, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                343.29999999999995,
+                                105.60571884056753,
+                                150.0
+                            ]
+                        },
+                        {
+                            "solucion": "[303, 160, 1809, 954, 497, 1757, 1822, 1113, 2433, 1111, 1919, 225, 937, 1950, 1049, 1570, 1722, 1834, 999, 2196, 757, 1909, 965, 277, 1888, 961, 2471, 1010, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 1458, 1818, 28, 184, 1800, 1090, 2380, 1204, 1894, 1133, 539, 944, 1909, 104, 1030, 1926, 1102, 1439, 2470, 1819, 1018, 2000, 2057, 1901, 278, 2580, 1812, 1146, 2549, 2483, 1947, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                392.70000000000005,
+                                86.20271802598275,
+                                150.0
+                            ]
+                        },
+                        {
+                            "solucion": "[191, 160, 1809, 954, 497, 1757, 1822, 1042, 2433, 1111, 1919, 225, 937, 1950, 1120, 1570, 1122, 1834, 999, 2196, 757, 1961, 965, 966, 1888, 983, 2471, 1212, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 2188, 1818, 224, 184, 1809, 1090, 14, 1204, 1894, 1133, 539, 944, 1902, 104, 1030, 1926, 965, 1439, 2470, 1819, 1018, 1692, 2057, 1901, 278, 2580, 1061, 1146, 2549, 2483, 1838, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                386.29999999999995,
+                                117.01398065417573,
+                                100.0
+                            ]
+                        },
+                        {
+                            "solucion": "[303, 160, 1809, 954, 497, 1757, 1822, 1113, 2433, 1111, 1919, 225, 937, 1950, 1049, 1570, 1722, 1834, 999, 2196, 757, 1909, 965, 277, 1888, 961, 2471, 1010, 1940, 1077, 520, 2000, 1862, 90, 63, 1902, 990, 810, 2242, 1909, 1070, 1664, 1458, 1818, 28, 184, 1800, 1090, 2380, 1204, 1894, 1133, 539, 944, 1909, 104, 1030, 1926, 1102, 1439, 2470, 1819, 1018, 2000, 2057, 1901, 278, 2580, 1812, 1146, 2549, 710, 1947, 1122, 1563, 584, 1834]",
+                            "fitness": [
+                                472.29999999999995,
+                                77.75328439313338,
+                                150.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 26,
+                    "tiempo_ejecucion": "61.13",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 40.957509436690685,
+                    "cv_mediana": 56.659406558608985,
+                    "cv_media": 55.49545788773467,
+                    "soluciones": []
+                },
+                {
+                    "seed": 59,
+                    "tiempo_ejecucion": "59.94",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 19.29532808643029,
+                    "cv_mediana": 55.858636320812664,
+                    "cv_media": 52.232509226353976,
+                    "soluciones": []
+                },
+                {
+                    "seed": 60,
+                    "tiempo_ejecucion": "60.22",
+                    "num_soluciones": 1,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 30.019551598498964,
+                    "cv_media": 30.92729281309874,
+                    "soluciones": [
+                        {
+                            "solucion": "[1011, 287, 1928, 1004, 555, 2437, 1902, 1045, 1410, 328, 1959, 166, 286, 1120, 1060, 1333, 1302, 1121, 972, 1728, 2046, 1058, 218, 82, 1837, 1022, 2156, 936, 1059, 1069, 1651, 1452, 1911, 1045, 22, 1887, 939, 2505, 1278, 1894, 1109, 342, 536, 1054, 946, 1125, 1943, 930, 316, 1614, 1061, 1025, 1244, 1930, 1120, 1130, 1035, 1803, 1845, 420, 570, 1816, 966, 2182, 1874, 1912, 115, 317, 1927, 1032, 262, 776, 1960, 1009, 2435, 2410, 1960]",
+                            "fitness": [
+                                451.70000000000005,
+                                113.58225106204826,
+                                0.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 79,
+                    "tiempo_ejecucion": "60.70",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 8.105453087409785,
+                    "cv_mediana": 30.534283465817623,
+                    "cv_media": 28.248859513586368,
+                    "soluciones": []
+                },
+                {
+                    "seed": 93,
+                    "tiempo_ejecucion": "59.87",
+                    "num_soluciones": 2,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 21.80168820463548,
+                    "cv_media": 19.42831995107623,
+                    "soluciones": [
+                        {
+                            "solucion": "[1047, 926, 1888, 1119, 2312, 1296, 1056, 928, 1649, 1471, 1820, 306, 225, 1934, 943, 2184, 2539, 1054, 987, 2568, 1066, 1961, 222, 0, 1121, 1092, 1439, 536, 1822, 942, 2169, 2469, 1816, 207, 1033, 1814, 1057, 2377, 1156, 1058, 1015, 812, 2504, 1912, 320, 170, 1055, 1013, 2391, 1216, 1913, 984, 1704, 2271, 1816, 1107, 91, 1901, 1133, 1713, 1259, 1864, 1092, 2378, 593, 1055, 28, 84, 1058, 997, 1100, 1363, 1816, 919, 1603, 481, 1896]",
+                            "fitness": [
+                                396.29999999999995,
+                                95.76818477554262,
+                                200.0
+                            ]
+                        },
+                        {
+                            "solucion": "[1047, 926, 1888, 1119, 2312, 1296, 1056, 928, 1649, 892, 1820, 1147, 225, 1934, 1901, 2184, 2539, 1823, 987, 2568, 149, 1961, 222, 0, 1121, 1092, 1439, 536, 1822, 942, 2169, 2469, 1816, 207, 1033, 1814, 1057, 2377, 1156, 1058, 1015, 1356, 2504, 1899, 320, 210, 1055, 1013, 2391, 1216, 1913, 984, 1704, 2271, 1816, 1107, 91, 1901, 1133, 1153, 1259, 1834, 1092, 2378, 593, 1055, 28, 84, 1058, 997, 1100, 1363, 1816, 919, 1603, 481, 1896]",
+                            "fitness": [
+                                628.1000000000001,
+                                93.54612422948087,
+                                150.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 489,
+                    "tiempo_ejecucion": "60.29",
+                    "num_soluciones": 4,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 9.911131749183369,
+                    "cv_media": 8.86035271587388,
+                    "soluciones": [
+                        {
+                            "solucion": "[218, 970, 1926, 1107, 2090, 472, 1820, 1144, 2043, 1556, 1907, 1136, 222, 1943, 971, 2555, 1363, 1865, 1122, 593, 2538, 1900, 202, 241, 1810, 1902, 1727, 1536, 1892, 1062, 1642, 1774, 1059, 327, 1086, 1058, 975, 2088, 1629, 1894, 1083, 2137, 1141, 1909, 1046, 1027, 1815, 923, 2383, 1439, 1937, 1796, 2377, 2378, 1121, 120, 204, 1900, 1088, 2244, 321, 1900, 966, 346, 1160, 1892, 239, 329, 1902, 945, 2287, 2433, 1919, 1045, 1052, 1470, 1825]",
+                            "fitness": [
+                                314.29999999999995,
+                                90.61131861841716,
+                                -50.0
+                            ]
+                        },
+                        {
+                            "solucion": "[218, 970, 1926, 1107, 2090, 472, 1820, 1144, 2043, 1556, 1907, 1136, 222, 1943, 971, 2555, 1363, 1865, 1122, 593, 2538, 1900, 202, 241, 1810, 1902, 1727, 1536, 1892, 1053, 1642, 1774, 1059, 327, 1086, 1058, 975, 2088, 1629, 1894, 1083, 2137, 1141, 1909, 1046, 1027, 1815, 923, 2383, 1439, 1937, 1796, 2377, 2378, 1121, 120, 204, 1900, 1088, 2244, 321, 1900, 966, 346, 1160, 1892, 239, 329, 1902, 945, 2287, 2433, 1919, 1045, 1052, 1470, 1825]",
+                            "fitness": [
+                                305.29999999999995,
+                                90.6539303506,
+                                -50.0
+                            ]
+                        },
+                        {
+                            "solucion": "[218, 970, 1926, 1107, 2090, 472, 1820, 1144, 2043, 1556, 1907, 1136, 222, 1943, 971, 2555, 1363, 1865, 1122, 593, 2538, 1900, 202, 241, 1810, 1902, 1727, 1536, 1892, 1062, 1642, 1774, 1059, 327, 1086, 1058, 975, 2088, 1629, 1894, 1083, 2137, 1141, 1909, 1046, 120, 1815, 923, 2383, 1439, 1937, 1048, 2377, 2378, 1121, 120, 204, 1900, 1088, 2244, 321, 1900, 966, 346, 1160, 1892, 239, 329, 1902, 945, 2174, 2433, 1919, 1045, 1052, 1470, 1825]",
+                            "fitness": [
+                                321.70000000000005,
+                                83.48256087047574,
+                                -50.0
+                            ]
+                        },
+                        {
+                            "solucion": "[218, 970, 1926, 1107, 2090, 661, 1056, 1144, 2043, 1407, 1907, 1136, 222, 1943, 971, 2555, 1363, 1865, 1122, 593, 2538, 1900, 202, 103, 1810, 1902, 1727, 1029, 1892, 1062, 14, 1774, 1865, 327, 1086, 1058, 975, 2088, 1634, 1894, 1083, 2137, 1141, 1909, 1046, 1027, 1945, 923, 2383, 1439, 1937, 1796, 2377, 2378, 1121, 120, 332, 1900, 1088, 2200, 321, 1913, 966, 346, 818, 1892, 239, 329, 1902, 1021, 2287, 2433, 1919, 1045, 1052, 1470, 1899]",
+                            "fitness": [
+                                366.29999999999995,
+                                74.82903065399023,
+                                0.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 608,
+                    "tiempo_ejecucion": "60.03",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 30.35296269202633,
+                    "cv_mediana": 63.83454149024759,
+                    "cv_media": 60.801333491642005,
+                    "soluciones": []
+                },
+                {
+                    "seed": 634,
+                    "tiempo_ejecucion": "61.03",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 32.99412761894452,
+                    "cv_mediana": 75.96925409722479,
+                    "cv_media": 69.23772118938636,
+                    "soluciones": []
+                },
+                {
+                    "seed": 684,
+                    "tiempo_ejecucion": "61.15",
+                    "num_soluciones": 4,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 0.0,
+                    "cv_media": 8.202593005059546,
+                    "soluciones": [
+                        {
+                            "solucion": "[64, 37, 1900, 1000, 1096, 2206, 1940, 1036, 1562, 1669, 1092, 96, 80, 1811, 1112, 1956, 2271, 1959, 1085, 2112, 1033, 1961, 198, 185, 1807, 1063, 2352, 1240, 1821, 1092, 1313, 987, 1834, 212, 289, 1902, 972, 683, 818, 1940, 941, 2243, 2342, 1904, 957, 182, 1809, 944, 1156, 1433, 1825, 1045, 2210, 2450, 1902, 1104, 946, 1837, 1135, 2486, 1992, 1817, 1900, 860, 1385, 1903, 20, 1086, 1056, 1028, 2386, 669, 1825, 1101, 828, 2006, 1940]",
+                            "fitness": [
+                                344.89999999999986,
+                                88.62900993427732,
+                                -50.0
+                            ]
+                        },
+                        {
+                            "solucion": "[64, 37, 1900, 1000, 1096, 2206, 1940, 1036, 1704, 1669, 1092, 96, 80, 1811, 1112, 1956, 2271, 1910, 1088, 2112, 1033, 1961, 198, 185, 1807, 1063, 2352, 1240, 1821, 1092, 1313, 987, 1834, 212, 289, 1902, 972, 590, 818, 1940, 941, 2243, 2342, 1904, 957, 182, 1809, 944, 1156, 1433, 1825, 1045, 2210, 2450, 1902, 1104, 946, 1837, 1135, 2486, 1992, 1962, 1123, 860, 1385, 1903, 20, 1086, 1056, 1028, 2386, 669, 1825, 1101, 2156, 2006, 1940]",
+                            "fitness": [
+                                403.70000000000005,
+                                81.10101139765425,
+                                -100.0
+                            ]
+                        },
+                        {
+                            "solucion": "[64, 37, 1900, 1100, 1096, 1589, 1940, 1036, 1562, 1669, 1092, 96, 80, 1811, 1112, 1956, 2271, 1959, 1088, 1781, 1033, 1961, 198, 185, 1807, 1063, 2352, 404, 1821, 1092, 1313, 987, 1834, 212, 289, 1902, 922, 1568, 818, 1940, 941, 2243, 2342, 1904, 532, 182, 1809, 944, 1156, 1433, 1825, 1032, 2210, 2450, 1902, 1104, 946, 1837, 1135, 2486, 1992, 1824, 1123, 860, 1385, 1903, 20, 1086, 1056, 1028, 2386, 978, 1825, 1101, 828, 2006, 1940]",
+                            "fitness": [
+                                334.89999999999986,
+                                102.34393008634214,
+                                -50.0
+                            ]
+                        },
+                        {
+                            "solucion": "[64, 37, 1900, 1000, 1096, 2206, 1940, 1036, 1562, 1669, 1092, 96, 80, 1811, 1112, 1956, 2271, 1959, 1088, 2112, 1033, 1961, 198, 185, 1807, 980, 2047, 1240, 1821, 1092, 1313, 987, 1834, 212, 289, 1902, 972, 1568, 818, 1940, 941, 2243, 2342, 1904, 957, 182, 1809, 944, 1156, 1433, 1825, 1045, 2210, 2450, 1902, 1104, 946, 1837, 1150, 2486, 1992, 1962, 1123, 860, 1385, 1903, 20, 286, 1056, 1028, 2386, 458, 1825, 1101, 828, 2006, 1940]",
+                            "fitness": [
+                                383.70000000000005,
+                                76.47124457492453,
+                                -50.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 784,
+                    "tiempo_ejecucion": "61.60",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 7.950313920762067,
+                    "cv_mediana": 26.855809047581836,
+                    "cv_media": 25.391397778152985,
+                    "soluciones": []
+                },
+                {
+                    "seed": 930,
+                    "tiempo_ejecucion": "59.92",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 18.409791965835673,
+                    "cv_mediana": 41.49513723345345,
+                    "cv_media": 38.39561205413159,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3364,
+                    "tiempo_ejecucion": "62.93",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 12.465404224326292,
+                    "cv_mediana": 34.63886415948146,
+                    "cv_media": 33.824150101542216,
+                    "soluciones": []
+                },
+                {
+                    "seed": 3608,
+                    "tiempo_ejecucion": "59.62",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 23.75016562872665,
+                    "cv_mediana": 38.05073427266761,
+                    "cv_media": 36.754794517269666,
+                    "soluciones": []
+                },
+                {
+                    "seed": 4845,
+                    "tiempo_ejecucion": "59.60",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 65.76726290015867,
+                    "cv_mediana": 94.49176297946977,
+                    "cv_media": 93.83315852319294,
+                    "soluciones": []
+                },
+                {
+                    "seed": 5375,
+                    "tiempo_ejecucion": "59.12",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 43.27370195768645,
+                    "cv_mediana": 72.0778753036543,
+                    "cv_media": 70.29257232935176,
+                    "soluciones": []
+                },
+                {
+                    "seed": 8542,
+                    "tiempo_ejecucion": "60.36",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 29.74273366935433,
+                    "cv_mediana": 49.401161096094825,
+                    "cv_media": 49.311440970234116,
+                    "soluciones": []
+                },
+                {
+                    "seed": 9397,
+                    "tiempo_ejecucion": "58.87",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 37.40186482475177,
+                    "cv_mediana": 54.57640734794734,
+                    "cv_media": 56.73772647549843,
+                    "soluciones": []
+                },
+                {
+                    "seed": 11320,
+                    "tiempo_ejecucion": "59.62",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 9.122447562161412,
+                    "cv_mediana": 44.538893725172144,
+                    "cv_media": 40.86508480459774,
+                    "soluciones": []
+                },
+                {
+                    "seed": 14648,
+                    "tiempo_ejecucion": "58.65",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 18.781196235562128,
+                    "cv_mediana": 70.94054474595693,
+                    "cv_media": 67.32989074833847,
+                    "soluciones": []
+                },
+                {
+                    "seed": 39843,
+                    "tiempo_ejecucion": "59.87",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 70.05888428620207,
+                    "cv_mediana": 111.3129408507705,
+                    "cv_media": 112.18852228630722,
+                    "soluciones": []
+                },
+                {
+                    "seed": 73886,
+                    "tiempo_ejecucion": "60.11",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 46.7657621707901,
+                    "cv_mediana": 71.83235557464916,
+                    "cv_media": 67.123789385189,
+                    "soluciones": []
+                },
+                {
+                    "seed": 83186,
+                    "tiempo_ejecucion": "60.40",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 59.07898869346733,
+                    "cv_mediana": 85.11782791589039,
+                    "cv_media": 83.26096875979317,
+                    "soluciones": []
+                },
+                {
+                    "seed": 97870,
+                    "tiempo_ejecucion": "60.23",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 18.534265668739824,
+                    "cv_mediana": 29.774926496233782,
+                    "cv_media": 34.86111704345908,
+                    "soluciones": []
+                },
+                {
+                    "seed": 152822,
+                    "tiempo_ejecucion": "62.63",
+                    "num_soluciones": 1,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 19.13883360736663,
+                    "cv_media": 19.46682872679078,
+                    "soluciones": [
+                        {
+                            "solucion": "[93, 317, 1081, 1088, 382, 2201, 1909, 1036, 153, 802, 1821, 95, 225, 1814, 1018, 821, 2171, 1822, 1123, 2610, 1157, 1825, 991, 189, 1812, 1122, 703, 2203, 1900, 946, 2219, 1014, 1946, 276, 135, 1060, 1029, 2596, 2595, 1817, 1128, 1512, 152, 1825, 114, 34, 1801, 1035, 1277, 851, 1824, 1066, 2077, 1284, 1910, 2449, 1069, 1955, 1050, 1508, 1507, 1054, 973, 751, 1262, 1937, 218, 331, 1800, 959, 2170, 657, 1959, 1046, 2298, 2472, 1060]",
+                            "fitness": [
+                                545.3,
+                                97.9780992197458,
+                                -50.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 211193,
+                    "tiempo_ejecucion": "60.83",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 20.5482350821773,
+                    "cv_mediana": 37.941065467457626,
+                    "cv_media": 39.56090425943128,
+                    "soluciones": []
+                },
+                {
+                    "seed": 226880,
+                    "tiempo_ejecucion": "60.52",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 51.271758661174104,
+                    "cv_mediana": 100.85442446402541,
+                    "cv_media": 97.37309014061645,
+                    "soluciones": []
+                },
+                {
+                    "seed": 315529,
+                    "tiempo_ejecucion": "59.92",
+                    "num_soluciones": 3,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 20.393117155761857,
+                    "cv_media": 21.21234678599192,
+                    "soluciones": [
+                        {
+                            "solucion": "[281, 167, 1943, 1016, 2211, 1684, 1959, 1051, 2453, 620, 1915, 65, 1078, 1900, 1140, 912, 1659, 1947, 948, 1433, 1997, 1816, 1143, 71, 1803, 1119, 2273, 1976, 1061, 972, 125, 867, 1902, 23, 993, 1801, 920, 981, 2569, 1902, 982, 718, 1749, 1947, 65, 1097, 1945, 1010, 2033, 1954, 1908, 1123, 2349, 259, 1961, 30, 328, 1810, 1022, 993, 1396, 1056, 1038, 1996, 2158, 1058, 235, 1007, 1890, 1100, 1868, 1779, 1902, 1148, 1282, 1723, 1895]",
+                            "fitness": [
+                                365.89999999999986,
+                                67.4424651180765,
+                                0.0
+                            ]
+                        },
+                        {
+                            "solucion": "[229, 317, 1943, 1016, 1410, 1684, 1959, 1051, 2453, 620, 1915, 65, 1078, 1900, 979, 912, 1659, 1947, 948, 1433, 1500, 1838, 1143, 71, 1803, 1119, 2273, 1976, 1061, 972, 125, 867, 1863, 991, 993, 1801, 1108, 981, 2146, 1902, 982, 718, 769, 1947, 65, 1097, 1945, 1082, 2033, 1954, 1908, 1123, 2349, 259, 1961, 30, 328, 1810, 1022, 993, 1307, 1056, 1038, 1996, 2158, 1895, 235, 1007, 1890, 1100, 2423, 1779, 1092, 1148, 1771, 1723, 1895]",
+                            "fitness": [
+                                609.8999999999999,
+                                75.8407684006241,
+                                -50.0
+                            ]
+                        },
+                        {
+                            "solucion": "[281, 167, 1943, 1016, 2211, 1684, 1962, 1051, 2453, 620, 1915, 65, 1078, 1900, 1140, 912, 1659, 1947, 948, 1433, 1997, 1816, 1143, 71, 1803, 1119, 2273, 1976, 1061, 972, 125, 867, 1902, 23, 993, 1801, 920, 981, 2569, 1902, 982, 718, 1749, 1947, 65, 1097, 1945, 1010, 2033, 1954, 1908, 1123, 2349, 259, 1961, 30, 328, 1810, 1022, 993, 1396, 1056, 1038, 1996, 2158, 1058, 235, 1007, 1890, 1100, 1868, 1779, 1902, 1148, 1282, 1723, 1895]",
+                            "fitness": [
+                                354.89999999999986,
+                                67.82237105678436,
+                                0.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 428397,
+                    "tiempo_ejecucion": "59.72",
+                    "num_soluciones": 0,
+                    "genero_soluciones": false,
+                    "cv_min": 15.570988893757132,
+                    "cv_mediana": 27.003005010405108,
+                    "cv_media": 26.14861446009767,
+                    "soluciones": []
+                },
+                {
+                    "seed": 489166,
+                    "tiempo_ejecucion": "59.63",
+                    "num_soluciones": 1,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 15.511830724140395,
+                    "cv_media": 18.23651328270706,
+                    "soluciones": [
+                        {
+                            "solucion": "[299, 173, 1807, 1136, 887, 1558, 1092, 934, 2308, 2453, 1903, 113, 1111, 1936, 1901, 2124, 2259, 1120, 1099, 258, 1980, 1900, 241, 1026, 1884, 941, 1568, 2078, 1892, 1143, 897, 932, 1083, 0, 1002, 1082, 1035, 2305, 582, 1946, 952, 2333, 146, 1121, 175, 81, 1945, 1042, 421, 2546, 1820, 936, 2227, 1543, 1092, 122, 338, 1801, 955, 2137, 2280, 1816, 984, 866, 708, 1865, 162, 333, 1808, 959, 1547, 485, 1862, 1015, 2566, 1016, 1817]",
+                            "fitness": [
+                                233.29999999999995,
+                                86.02299770007569,
+                                150.0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seed": 526568,
+                    "tiempo_ejecucion": "59.59",
+                    "num_soluciones": 1,
+                    "genero_soluciones": true,
+                    "cv_min": 0.0,
+                    "cv_mediana": 49.60141331517249,
+                    "cv_media": 44.608066416485535,
+                    "soluciones": [
+                        {
+                            "solucion": "[99, 48, 1886, 969, 1485, 147, 1959, 1115, 1335, 1551, 1056, 172, 67, 1799, 1009, 1669, 504, 1056, 1095, 1214, 264, 1911, 113, 212, 1809, 947, 1073, 902, 1838, 960, 2400, 1269, 1822, 290, 5, 1806, 1036, 1972, 2162, 1910, 924, 770, 992, 1121, 1095, 962, 1944, 932, 261, 1593, 1892, 1113, 2457, 2064, 1907, 215, 243, 1955, 979, 108, 2412, 1862, 964, 670, 2188, 1092, 291, 93, 1055, 1074, 2214, 968, 1818, 943, 1738, 1523, 1121]",
+                            "fitness": [
+                                466.89999999999986,
+                                87.10109924554658,
+                                0.0
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

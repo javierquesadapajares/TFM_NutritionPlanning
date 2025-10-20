@@ -1,0 +1,69 @@
+####################################################################################################
+SECCIÓN 1 — COMPARACIONES POR PARES (WILCOXON por sujeto + Fisher)
+####################################################################################################
+
+=== (1/6) WILCOXON por sujeto: nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json  VS  nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000003
+   Mediana global de (HV_nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json - HV_nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (2/6) WILCOXON por sujeto: nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json  VS  nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.024178
+   Mediana global de (HV_nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json - HV_nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (3/6) WILCOXON por sujeto: nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json  VS  nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.000006
+   Mediana global de (HV_nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json - HV_nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (4/6) WILCOXON por sujeto: nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json  VS  nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.003204
+   Mediana global de (HV_nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json - HV_nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+=== (5/6) WILCOXON por sujeto: nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json  VS  nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.250477
+   Mediana global de (HV_nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json - HV_nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json: 0   |  a nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json: 1   |  empates: 4
+   GANADOR (si p<0.05): —
+====================================================================================================
+
+=== (6/6) WILCOXON por sujeto: nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json  VS  nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json ===
+   Sujetos evaluados: 5  |  Seeds emparejadas totales: 155  |  Tiempo: 0.0s
+   P combinado (Fisher): 0.026969
+   Mediana global de (HV_nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json - HV_nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json) entre sujetos: 0.000000
+   Sujetos que favorecen a nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json: 1   |  a nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json: 0   |  empates: 4
+   GANADOR (si p<0.05): Empate (mediana global = 0)
+====================================================================================================
+
+####################################################################################################
+SECCIÓN 2 — ANÁLISIS GLOBAL (Aligned Friedman + Shaffer)
+####################################################################################################
+
+=== FRIEDMAN + SHAFFER (GLOBAL) → 4 métodos × 5 sujetos ===
+   p-Friedman = 0.309485   |   Tiempo: 0.00s
+   [INFO] Se usó X_use = -HV para el ranking (HV es larger-is-better).
+
+   Ranking (menor rank = mejor):
+      1. nsga3_grafos_cr_coseno_knn_path_pc0_6_mut_custom_pm1_77.json  → rank=6.500000
+      2. nsga3_grafos_cr_coseno_knn_walk_pc0_6_mut_custom_pm1_77.json  → rank=9.500000
+      3. nsga3_grafos_cr_coseno_knn_walk_pc0_9_mut_custom_pm1_77.json  → rank=12.900000
+      4. nsga3_grafos_cr_coseno_knn_path_pc0_9_mut_custom_pm1_77.json  → rank=13.100000
+
+   No hay diferencias globales significativas (p>=0.05).
+====================================================================================================
+
