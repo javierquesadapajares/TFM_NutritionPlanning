@@ -1,5 +1,5 @@
 # TFM_NutritionPlanning
-TFM de valuación de operadores evolutivos guiados por similitud en espacios vectorial, matricial y de grafos aplicados a la planificación nutricional multiobjetivo. Este TFM compara cuatro representaciones del espacio de búsqueda (discreto, vectores, matrices y grafos) sobre un mismo problema: generar menús semanales que cumplan objetivos y restricciones nutricionales (calorías, P/C/G, alergias, gustos, etc.). El algoritmo base es NSGA-III y se evalúan operadores guiados por similitud.
+TFM de Evaluación de operadores evolutivos guiados por similitud en espacios vectorial, matricial y de grafos aplicados a la planificación nutricional multiobjetivo. Este TFM compara cuatro representaciones del espacio de búsqueda (discreto, vectores, matrices y grafos) sobre un mismo problema: generar menús semanales que cumplan objetivos y restricciones nutricionales (calorías, P/C/G, alergias, gustos, etc.). El algoritmo base es NSGA-III y se evalúan operadores guiados por similitud.
 
 ## Descarga
 
